@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @on1ManArmy a IT undergraduate A 6* Problem Solver at Hackerank
-- 👀 I’m interested in Software Developent Internships
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development along with integration of MachineLearning Models
 - 💞️ I’m looking to collaborate on Software developers who work on the similar skillset
 - 📫 How to reach me: iitjeeabhishek@gmail.com
